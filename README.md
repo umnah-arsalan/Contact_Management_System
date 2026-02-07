@@ -1,5 +1,5 @@
 # Contact_Management_System
-We will build a Contact Management System that can: 
+Contact Management System can: 
 1. Add a new contact
 2. View all contacts
 3. Search contact by phone number
